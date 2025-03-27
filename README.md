@@ -1,7 +1,3 @@
-Here’s a polished README for your Nodepay BOT project:
-
----
-
 - Register Here : [Nodepay](https://app.nodepay.ai/register?ref=MvmY9WUkNAq7vN9) -
 - Use Code : MvmY9WUkNAq7vN9
 
